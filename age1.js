@@ -11,7 +11,7 @@
     
     var age = Math.abs(year - 1970);
 
-    console.log("hello gurpreet")
+    console.log("hii gurpreet")
     
     console.log("you are currently " + age + " years old");
 
